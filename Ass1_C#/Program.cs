@@ -21,7 +21,7 @@ namespace Ass1_C_
             //#endregion
 
 
-            //#region Q2
+            //#region Q2s
 
             //string text = "hfd35";
             //if (int.TryParse(text, out int num))
