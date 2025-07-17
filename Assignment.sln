@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.14.36221.1
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ass1_C#", "Ass1_C#\Ass1_C#.csproj", "{74A2FBE4-1AE9-419A-8E84-C63318AD8A0C}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assignment3", "Ass1_C#\Assignment3.csproj", "{74A2FBE4-1AE9-419A-8E84-C63318AD8A0C}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C44-G02-doki-C#04", "C44-G02-doki-C#04\C44-G02-doki-C#04.csproj", "{7B941D7E-582F-4E20-9BB8-057FDBA5EE5F}"
 EndProject
