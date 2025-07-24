@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C44-G02-doki-C#04", "C44-G0
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C44-G02-doki-C#05", "C44-G02-doki-C#05\C44-G02-doki-C#05.csproj", "{3A438A41-76C9-4587-A294-70457047926C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C44-G02-doki-C#06", "C44-G02-doki-C#06\C44-G02-doki-C#06.csproj", "{EAE6B6AB-1499-416B-8F9D-C246737C1237}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{3A438A41-76C9-4587-A294-70457047926C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3A438A41-76C9-4587-A294-70457047926C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3A438A41-76C9-4587-A294-70457047926C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EAE6B6AB-1499-416B-8F9D-C246737C1237}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EAE6B6AB-1499-416B-8F9D-C246737C1237}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EAE6B6AB-1499-416B-8F9D-C246737C1237}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EAE6B6AB-1499-416B-8F9D-C246737C1237}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
